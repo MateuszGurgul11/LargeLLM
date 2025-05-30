@@ -3,3 +3,4 @@ __pycache__/
 /output_data/
 /.ipynb_checkpoints/
 model-01.pkl
+vocab.txt
